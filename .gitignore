@@ -1,0 +1,12 @@
+
+# Konfigurasi database lokal
+/connect.php
+
+# File konfigurasi rahasia
+.env
+.env.*
+
+# File sementara
+*.log
+*.tmp
+*.bak
